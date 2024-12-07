@@ -1,0 +1,3 @@
+[submodule "memory_allocator"]
+	path = memory_allocator
+	url = https://github.com/OmarDawoud4/memory_allocator
